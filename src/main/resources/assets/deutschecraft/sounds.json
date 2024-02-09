@@ -1,0 +1,6 @@
+{
+  "entity.deutschecraft.miras.death": {
+    "subtitle": "subtitles.deutschecraft.entity.miras.death",
+    "sounds": ["deutschecraft:mob/miras/death"]
+  }
+}
