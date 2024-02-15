@@ -23,6 +23,7 @@ run
 
 # files from forge
 changelog.txt
+CREDITS.txt
 
 # macos
 .DS_Store
