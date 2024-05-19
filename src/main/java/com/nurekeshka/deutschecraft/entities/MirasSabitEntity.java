@@ -1,4 +1,4 @@
-package com.nurekeshka.deutschecraft.entity;
+package com.nurekeshka.deutschecraft.entities;
 
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.ai.attributes.AttributeSupplier;
@@ -14,8 +14,8 @@ import net.minecraft.world.entity.monster.Monster;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.level.Level;
 
-public class MirasEntity extends Monster {
-    public MirasEntity(EntityType<? extends Monster> type, Level level) {
+public class MirasSabitEntity extends Monster {
+    public MirasSabitEntity(EntityType<? extends Monster> type, Level level) {
         super(type, level);
     }
 
